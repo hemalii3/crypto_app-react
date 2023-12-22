@@ -6,6 +6,8 @@ const Home = () => {
       home
     this is home page
 
+    
+
 \    </div>
   )
 }
