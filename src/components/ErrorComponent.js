@@ -4,6 +4,7 @@ const ErrorComponent = () => {
   return (
     <div>
       if error, run this
+    
     </div>
   )
 }
