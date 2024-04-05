@@ -7,6 +7,7 @@ import CoinDetails from "./components/CoinDetails";
 import Exchanges from "./components/Exchanges";
 
 
+
 function App() {
   return (
     <>
