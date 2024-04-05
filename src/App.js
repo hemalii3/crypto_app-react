@@ -12,6 +12,7 @@ import Exchanges from "./components/Exchanges";
 function App() {
   return (
     <>
+    
      <BrowserRouter>
      <Header />
       <Routes>
